@@ -1,6 +1,5 @@
 # Quantum computing, q. information and q. machine learning books and papers reviews
-
-
+For the blog that is under plan, I would like to create summary of papers that are useful to embark on this journey to QC.
 
 ## Quantum books 
 
